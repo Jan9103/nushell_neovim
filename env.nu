@@ -1,3 +1,3 @@
 export-env {
-	let-env EDITOR = 'nvim'
+	load-env {EDITOR: 'nvim'}
 }
